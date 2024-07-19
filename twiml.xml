@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Say voice="alice" language="vi-VN">
     Em ăn cơm chưa?
   </Say>
+</Response>
+ -->
+<Response>
+<Say voice="woman">Thanks for trying our documentation. Enjoy!</Say>
+<Play>https://drive.google.com/drive/folders/18dvgRY56s9-LyQ4VlOP-2o_RnddZzpPO</Play>
 </Response>
